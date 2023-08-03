@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cae28ec1-472f-49d9-b0e5-e497c77b81cf" name="Changes" comment="Practice.">
-      <change afterPath="$PROJECT_DIR$/src/session3/ArithmeticOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/AssignmentCompoundOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/CelsiusToFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/CircleCircumference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/IncrementDecrementOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/KilometersToMiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/LogicalComplementAndNegationOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/NumericPromotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/RectangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/RelationalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/ScannerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/UnaryOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cae28ec1-472f-49d9-b0e5-e497c77b81cf" name="Changes" comment="Session 3 practice." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,12 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691047060495</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Session 3 practice.">
+      <option name="closed" value="true" />
+      <created>1691085490779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691085490779</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit." />
     <MESSAGE value="Practice." />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice." />
+    <MESSAGE value="Session 3 practice." />
+    <option name="LAST_COMMIT_MESSAGE" value="Session 3 practice." />
   </component>
 </project>
