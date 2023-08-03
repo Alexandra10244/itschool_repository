@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cae28ec1-472f-49d9-b0e5-e497c77b81cf" name="Changes" comment="Practice.">
+      <change afterPath="$PROJECT_DIR$/src/session3/ArithmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/AssignmentCompoundOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/CelsiusToFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/CircleCircumference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/IncrementDecrementOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/KilometersToMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/LogicalComplementAndNegationOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/NumericPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/RectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/RelationalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/ScannerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/UnaryOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2TSmbhN2FhislNWCbAHcDjxEMSi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,7 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "session__3"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
