@@ -1,6 +1,5 @@
-package homework5;
+package session5.homework5;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class WhileLoop {

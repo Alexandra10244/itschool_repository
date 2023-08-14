@@ -1,4 +1,4 @@
-package homework5;
+package session5.homework5;
 
 public class PathFindingInMaze {
     public static void main(String[] args) {
