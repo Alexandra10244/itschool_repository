@@ -9,7 +9,7 @@ public class Employee {
     private String name;
     private String NIN;
 
-    private List<TimeLog> userTimeLogList= new ArrayList<>();
+    private List<TimeLog> userTimeLogList = new ArrayList<>();
 
     public void setName(String name) {
         this.name = name;
