@@ -1,6 +1,6 @@
 package session4.practice;
 
-public class User {
+public class Userr {
 
     public String firstName;
     public String lasttName;

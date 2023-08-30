@@ -7,8 +7,8 @@ public class MemoryReference {
         System.out.println(greetingOne == greetingTwo);
         System.out.println(greetingOne.equals(greetingTwo));
 
-        User user1 = new User();
-        User user2 = new User();
+        Userr user1 = new Userr();
+        Userr user2 = new Userr();
         //user2 = null;
         user2 = user1;
         System.out.println(user1 == user2);
