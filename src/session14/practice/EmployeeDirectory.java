@@ -1,4 +1,4 @@
-package session14;
+package session14.practice;
 
 import java.util.HashMap;
 import java.util.Map;
