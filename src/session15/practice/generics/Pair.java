@@ -1,4 +1,4 @@
-package session15.generics;
+package session15.practice.generics;
 
 public class Pair<K, V> {
 

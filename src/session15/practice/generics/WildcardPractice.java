@@ -1,4 +1,4 @@
-package session15.generics;
+package session15.practice.generics;
 
 import java.util.Arrays;
 import java.util.List;
