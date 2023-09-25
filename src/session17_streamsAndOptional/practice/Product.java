@@ -1,4 +1,4 @@
-package session17_streamsAndOptional;
+package session17_streamsAndOptional.practice;
 
 public class Product {
 
