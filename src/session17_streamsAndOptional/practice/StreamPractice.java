@@ -1,6 +1,5 @@
-package session17_streamsAndOptional;
+package session17_streamsAndOptional.practice;
 
-import javax.xml.stream.events.Characters;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
